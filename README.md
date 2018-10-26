@@ -12,7 +12,7 @@ An open source block explorer written in node.js.
 *  [Florincoin](https://florincoin.info/info)
 *  [Maxcoin Explorer 1](https://explorer.maxcoinproject.net/)
 *  [Maxcoin Explorer 2](https://explorer2.maxcoinproject.net/)
-
+*  [Egamecoin Explorer](https://explorer.xgamebits.org/)
 
 *note: If you would like your instance mentioned here contact me*
 
@@ -42,7 +42,7 @@ Create user with read/write access:
 
 ### Get the source
 
-    git clone https://github.com/iquidus/explorer explorer
+    git clone https://github.com/xgamecoindev/explorer-iquidus.git
 
 ### Install node modules
 

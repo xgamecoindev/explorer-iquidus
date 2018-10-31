@@ -42,7 +42,7 @@ Create user with read/write access:
 
 ### Get the source
 
-    git clone https://github.com/xgamecoindev/explorer-iquidus.git
+    git clone https://github.com/xgamecoindev/xgame-explorer.git
 
 ### Install node modules
 
@@ -73,7 +73,10 @@ To stop the cluster you can use
 sync.js (located in scripts/) is used for updating the local databases. This script must be called from the explorers root directory.
 
     Usage: node scripts/sync.js [database] [mode]
-
+    
+    node scripts/sync.js index update
+    
+    
     database: (required)
     index [mode] Main index: coin info/stats, transactions & addresses
     market       Market data: summaries, orderbooks, trade history & chartdata
